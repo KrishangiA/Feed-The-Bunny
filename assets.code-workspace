@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\PRO-C28-Template-main\\PRO-C28-Template-main\\assets"
+		},
+		{
+			"path": "..\\..\\PRO-C28-Template-main\\PRO-C28-Template-main\\js"
+		},
+		{
+			"path": "..\\..\\PRO-C28-Template-main\\PRO-C28-Template-main\\lib"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "assets"
+	}
+}
